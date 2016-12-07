@@ -1,0 +1,2 @@
+# blogsafelink
+keperluan safelink blog
